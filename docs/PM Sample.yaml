@@ -19,16 +19,16 @@ Paper Mario:
     trading_events: False                   # Other options: True
     koot_favors: vanilla                    # Other options: shuffle_rewards, full_shuffle
     koot_coins: False                       # Other options: True
-    overworld_coins: False                  # Other options: True
+    overworld_coins: True                  # Other options: True
     foliage_coins: False                    # Other options: True
     coin_blocks: False                      # Other options: True
     include_shops: True                     # Other options: False
-    dojo: False                             # Other options: True
-    partner_upgrades: vanilla               # Other options: super_block_locations, full_shuffle
-    letter_rewards: vanilla                 # Other options: vanilla_letter_chain, final_letter_chain_reward, full_shuffle
-    super_multi_blocks: False               # Other options: True
+    dojo: True                             # Other options: True
+    partner_upgrades: full_shuffle               # Other options: super_block_locations, full_shuffle
+    letter_rewards: full_shuffle                 # Other options: vanilla_letter_chain, final_letter_chain_reward, full_shuffle
+    super_multi_blocks: True               # Other options: True
     rowf_items: True                        # Other options: False
-    merlow_items: False                     # Other options: True
+    merlow_items: True                     # Other options: True
     cheato_items: 6                         # Other options: 0 to 11
     local_consumables: 100                  # Other options: 0 to 100 It's recommended you leave this alone, as receiving consumables from others with a full inventory means the item disappears.
 
