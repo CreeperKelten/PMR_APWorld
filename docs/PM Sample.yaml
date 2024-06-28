@@ -125,7 +125,7 @@ Paper Mario:
     skip_epilogue: True                     # Other options: False
 
     # Cosmetics (see Options.py for settings with too many options to list here
-    mario_palette: Default                  # Other options: [A lot of 'em], random_pick_no_vanilla, random_on_every_load
+    mario_palette: 3                  # Other options: [A lot of 'em], random_pick_no_vanilla, random_on_every_load
     goombario_palette: Default              # Other options: [A lot of 'em], random_pick_no_vanilla, random_on_every_load
     kooper_palette: Default                 # Other options: [A lot of 'em], random_pick_no_vanilla, random_on_every_load
     bombette_palette: Default               # Other options: [A lot of 'em], random_pick_no_vanilla, random_on_every_load
